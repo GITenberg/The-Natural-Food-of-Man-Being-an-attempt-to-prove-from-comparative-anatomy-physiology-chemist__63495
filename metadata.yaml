@@ -1,0 +1,35 @@
+_repo: The-Natural-Food-of-Man-Being-an-attempt-to-prove-from-comparative-anatomy-physiology-chemist__63495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carrington, Hereward
+    alias: Carington, Hereward
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '5832'
+    url: http://www.gutenberg.org/2009/agents/5832
+    wikipedia: https://en.wikipedia.org/wiki/Hereward_Carrington
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Vegetarianism'
+- !lcsh 'Food'
+- GITenberg
+tableOfContents: 'The natural food of man -- The argument from comparative anatomy
+  -- The argument from physiology -- The argument from chemistry -- The argument from
+  hygiene -- The argument from experience: nations and individuals -- Miscellaneous
+  arguments -- Dairy products -- Vegetables -- Cereals, grains, etc. -- Condiments
+  and spices -- The fruitarian diet -- Food combinations -- Hygienic food and hygienic
+  cookery -- The question of quantity -- General conclusions.'
+title: "The Natural Food of Man\r\nBeing an attempt to prove from comparative anatomy,\
+  \ physiology, chemistry and hygiene, that the original, best and natural diet of\
+  \ man is fruit and nuts"
+url: http://www.gutenberg.org/ebooks/63495
